@@ -11,11 +11,11 @@ let age=22
 let loginid;
 let state;
 
-//number => 2 to poer of 53
+//number => 2 to power of 53
 //bigint => more than power of 53
 //string => " "(put inside double quote)
 //boolean => true/false
-//nul=> standalon value(not decleared)
+//null=> standalon value(not decleared)
 //undefined=>
 //symbol=> unique
 //object
